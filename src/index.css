@@ -1,0 +1,19 @@
+
+@import "tailwindcss";
+
+body{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+@media screen and (min-width: 640px) {
+    body {
+      font-family: 'Courier New', Courier, monospace;
+    }
+    h1{
+        font-size: 20px!important;
+        text-align: center;
+    }
+    
+  
+      
+  }
