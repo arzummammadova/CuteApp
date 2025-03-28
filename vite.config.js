@@ -6,9 +6,9 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss()
   ],
-  build: {
-    rollupOptions: {
-      external: ['react-icons/fi']
-    }
-  }
+  // build: {
+  //   rollupOptions: {
+  //     external: ['react-icons/fi']
+  //   }
+  // }
 })
