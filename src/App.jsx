@@ -39,9 +39,9 @@ const App = () => {
       default: cutepanda,
       yes: yespanda,
       no: pandano,
-      question: 'Panda wants to know: Will you go out with me?',
-      yesMessage: 'Panda is so happy you said yes!',
-      noMessage: "Panda is sad you said no :("
+      question: 'Will you go out with me?',
+      yesMessage: ' so happy you said yes!',
+      noMessage: " sad you said no :("
     },
     custom: {
       default: customSettings.defaultImage,
